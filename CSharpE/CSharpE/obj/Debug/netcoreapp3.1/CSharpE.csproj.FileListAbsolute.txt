@@ -1,0 +1,13 @@
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\bin\Debug\netcoreapp3.1\CSharpE.exe
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\bin\Debug\netcoreapp3.1\CSharpE.deps.json
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\bin\Debug\netcoreapp3.1\CSharpE.runtimeconfig.json
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\bin\Debug\netcoreapp3.1\CSharpE.runtimeconfig.dev.json
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\bin\Debug\netcoreapp3.1\CSharpE.dll
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\bin\Debug\netcoreapp3.1\CSharpE.pdb
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\obj\Debug\netcoreapp3.1\CSharpE.csprojAssemblyReference.cache
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\obj\Debug\netcoreapp3.1\CSharpE.csproj.CoreCompileInputs.cache
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\obj\Debug\netcoreapp3.1\CSharpE.AssemblyInfoInputs.cache
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\obj\Debug\netcoreapp3.1\CSharpE.AssemblyInfo.cs
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\obj\Debug\netcoreapp3.1\CSharpE.dll
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\obj\Debug\netcoreapp3.1\CSharpE.pdb
+C:\Users\emil.lindgren8\source\repos\CSharpE\CSharpE\obj\Debug\netcoreapp3.1\CSharpE.genruntimeconfig.cache
